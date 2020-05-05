@@ -1,6 +1,8 @@
 ![CI](https://github.com/L0615T1C5-216AC-9437/silentium-cn/workflows/CI/badge.svg)
 ### Description
-silentium, `/block` people who are annoying or douche's.    
+silentium, `/block` people who are annoying or douche's.  
+When you block a player, said player does not receive any of your messages.  
+Messages sent by the blocked player will appear as \[name]: \<Blocked Message>  
   
 Warning: This may conflict with mods that take over chat.  
 Examples: [BCL](https://github.com/L0615T1C5-216AC-9437/betterChatLimit) / [PG13](https://github.com/L0615T1C5-216AC-9437/PG13)
