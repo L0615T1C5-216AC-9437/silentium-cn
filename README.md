@@ -1,4 +1,4 @@
-![Java CI](https://github.com/L0615T1C5-216AC-9437/async-cn/workflows/Java%20CI/badge.svg)
+![CI](https://github.com/L0615T1C5-216AC-9437/silentium-cn/workflows/CI/badge.svg)
 ### Description
 silentium, `/block` people who are annoying or douche's.    
   
